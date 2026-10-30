@@ -1,0 +1,6 @@
+{
+  "name": "Ghats of Wayanad",
+  "description": "A realistic 4D endless runner along the real-life NH-766 Wayanad ghat highway featuring an elevated chase camera, Malabar gold coins, a pursuing Churam Guardian, 4D Time-Shift, and dynamic monsoon weather.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
